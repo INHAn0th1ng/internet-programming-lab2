@@ -39,6 +39,7 @@ h3 {
 
 img {
     height: 300px;
+    border: 5px solid #16bffd;
 }
 
 .courses .courses__content {
